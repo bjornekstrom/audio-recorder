@@ -6,6 +6,6 @@
 
 ## Usage
 
-Click the red button, or `open recording.wav, start`, to begin recording.
+Click the red button, or `open recording.wav, start`, to start recording.
 
 Click the black button, or `stop`, to stop recording.
