@@ -9,3 +9,5 @@
 Click the red button, or `open out/$1.wav, start`, to begin recording.
 
 Click the black button, or `stop`, to stop recording.
+
+Recordings will be saved in the folder `out` as WAV, with a random filename between 1-1000000 (so as not to overwrite previous recordings).
