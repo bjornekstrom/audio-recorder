@@ -6,8 +6,8 @@
 
 ## Usage
 
-Click the red button, or `open out/$1.wav, start`, to begin recording.
+Click the red button to begin recording.
 
-Click the black button, or `stop`, to stop recording.
+Click the black button to stop recording.
 
-Recording are saved in the folder `out` as WAV, with a random filename between 1-1000000 (so as not to overwrite previous recordings).
+Recording are saved in the `out` folder as WAV, with a random filename between 1-1000000 (so as not to overwrite previous recordings).
